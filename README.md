@@ -4,11 +4,12 @@ So I seem to have acquired a glorious piece of 1940's machining tech.  An 8" Log
 Feel free to join my adventure tooling up this historic beast and figuring out how to make it do things it was never intended to do.
 
 This is the best reference on the machine I've found so far.
-http://www.lathes.co.uk/loganshaper/index.html
+[Lathes.co.uk page about this machine](http://www.lathes.co.uk/loganshaper/index.html)
 
 A manual for its sister machine is available here, though I'll see if I can't scrounge soft-copy of something similar from my usual sources.
-https://store.lathes.co.uk/print/mb580
+[Manual for sale for a similar machine](https://store.lathes.co.uk/print/mb580)
 
+The actual manual for this machine came with it... So I'm going to scan it and put it online [here](https://pcoueffin.github.io/LoganShaperStuff/Manual).
 
 # Projects
 
@@ -64,3 +65,10 @@ I can cut out the profiles using the automated Z-feed too... Grinding or lapping
 ### Table Saw Cutters
 
 I have a moulding head for the table saw.  I have several profiles of cutters for it.  Ideally, I'd like to have a blade like the one that Andy Klein invented for turning a piece of scrap ply into a drawer in 4 easy cuts.  I'd have to make 2 45 degree cuts, and one plunge cut into a piece of steel that can be hardened and tempered... then bevel and grind it.  If I drill the hole for fixturing it to the head first, I can use that hole, and a simple stop to fixture it for cutting the bevel.  I'm hoping the shaper can just cut HSS without me having to switch to abrasives.  Otherwise, I'll likely go high-carbon.
+
+
+# Other pages
+
+This is where I'm putting things that might be interesting, but are not really relevant to the day-to-day running of this machine.
+
+[The process of getting the thing into the shop](https://pcoueffin.github.io/LoganShaperStuff/Rigging_And_Lifting)
