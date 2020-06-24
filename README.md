@@ -54,7 +54,14 @@ I'd like to be able to bolt my Sherline lathe directly to the bed of the machine
 
 ### Gear Puller.
 
-I really want to build something as much like the ones we made in college in my Grandfather's unheated garage shop in the dead of winter using hacksaws and files.  Staying warm by working our asses off.  Journey in nostalgia really.  Might grind up form cutters for the curves, or free-hand the Z-axis... or auto feed.  There'll be some lathe work needed too.
+I really want to build something as much like the ones we made in
+college in my Grandfather's unheated garage shop in the dead of winter
+using hacksaws and files.  Staying warm by working our asses off.
+Journey in nostalgia really.  Might grind up form cutters for the
+curves, or free-hand the Z-axis... or auto feed.  There'll be some
+lathe work needed too.
+
+[Here's the details on this project so far](http://pcoueffin.github.io/LoganShaperStuff/gearpuller/)
 
 ### Knives
 
